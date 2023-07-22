@@ -13,3 +13,6 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 3
+  - name: Macro-ABM
+    url: '#macro_abm'
+    weight: 4
