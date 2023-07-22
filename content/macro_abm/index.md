@@ -1,1 +1,10 @@
-http://swiese.eu.pythonanywhere.com/
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Meta Tag</title>
+      <meta http-equiv = "refresh" content = "0; url = http://swiese.eu.pythonanywhere.com/" />
+   </head>
+   <body>
+      <p>Redirecting to another URL</p>
+   </body>
+</html>
