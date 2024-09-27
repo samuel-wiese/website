@@ -61,7 +61,7 @@ email: "samuel.wiese@cs.ox.ac.uk"
 # - Visitors
 ---
 
-I am a third-year PhD student at the <a href="http://www.cs.ox.ac.uk/">Department of Computer Science</a> of the <a href="https://www.ox.ac.uk/">University of Oxford</a>. My supervisors are <a href="https://www.inet.ox.ac.uk/people/j-doyne-farmer/">Doyne Farmer</a> and <a href="https://www.cs.ox.ac.uk/people/ani.calinescu/">Ani Calinescu</a>. I am a member of <a href="https://www.wolfson.ox.ac.uk/">Wolfson College</a> and of the <a href="https://www.inet.ox.ac.uk/research/programmes/complexity-economics">Complexity Economics Group</a> at the <a href="https://www.inet.ox.ac.uk">Institute for New Economic Thinking</a>. I am interested in game theory, networks, and (macroeconomic) agent-based modelling. I previously worked on fractals.
+I am a graduate student at the <a href="http://www.cs.ox.ac.uk/">Department of Computer Science</a> of the <a href="https://www.ox.ac.uk/">University of Oxford</a>. My supervisors are <a href="https://www.inet.ox.ac.uk/people/j-doyne-farmer/">Doyne Farmer</a> and <a href="https://www.cs.ox.ac.uk/people/ani.calinescu/">Ani Calinescu</a>. I am a member of <a href="https://www.wolfson.ox.ac.uk/">Wolfson College</a> and of the <a href="https://www.inet.ox.ac.uk/research/programmes/complexity-economics">Complexity Economics Group</a> at the <a href="https://www.inet.ox.ac.uk">Institute for New Economic Thinking</a>. I am interested in game theory, networks, and (macroeconomic) agent-based modelling. I previously worked on fractals.
 
 I was trained at the <a href="https://www.uni-leipzig.de/">University of Leipzig</a>, where I was a scholar of the <a href="https://www.sdw.org/">Foundation of German Business</a>, and hold a Diploma in Mathematics.
 
