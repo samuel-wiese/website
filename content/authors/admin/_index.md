@@ -69,4 +69,4 @@ I am working part-time in the risk division (systematic and event-driven) of a <
 
 I care about equity of education and taught basic mechanics and computer science at the <a href="https://www.inspirata.de">Inspirata</a>. We competed in the <a href="https://wro-association.org/home">World Robot Olympiad</a> twice. I like rowing, judo, and nice libraries. I don't like running.
 
-Please reach me at samuel.wiese(at)cs.ox.ac.uk and find my CV <a href="files//cv.pdf">here</a>.
+Please reach me at samuel.wiese(at)cs.ox.ac.uk and find my CV <a href="/uploads/CV.pdf">here</a>.
